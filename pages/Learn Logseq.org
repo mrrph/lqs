@@ -1,0 +1,3 @@
+* To what extent can I use this with org-roam, maybe in just a simple way of being able to to write in GitHub and then copy it over
+* TODO try simple ways to copy ~*.org~ files to my main org-roam
+*
