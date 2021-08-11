@@ -1,0 +1,3 @@
+* This link is supposed to let you run Nextstep on Virtualbox but it seems like it isn't working on MacOS: https://learn.adafruit.com/build-your-own-next-with-a-virtual-machine?view=all
+* This link is what it points to that probably works better because it is set up for Parallels desktop, but that is expensive: https://openstep.bfx.re
+*
